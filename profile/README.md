@@ -11,6 +11,3 @@ Visit the site for descriptions and links to the corresponding repositories.
 ## 📬 Contact
 
 For feedback or inquiries, feel free to reach out: 📧 [mail@manuelbieri.ch](mailto:mail@manuelbieri.ch)
-
-
-2025 [Manuel Bieri](https://manuelbieri.ch)
